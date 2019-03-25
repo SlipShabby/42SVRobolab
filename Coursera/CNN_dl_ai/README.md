@@ -1,11 +1,11 @@
-Convolutional Neural Networks(https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
+#Convolutional Neural Networks(https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
 
 by deeplearning.ai
 
 Guided by Andrew Ng
 
 
-This is my assignment on Andrew Ng's special course "Deep Learning Specialization"
+This is my assignment on Andrew Ng's special course "Deep Learning Specialization", Course 4 "Convolutional Neural Networks".
 
 
 This special course consists of five courses:
