@@ -19,10 +19,11 @@ Know to use neural style transfer to generate art.
 Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
 
 Programming Assignments:
+
 Convolutional Model:step by step 
 Convolution model Application 
 Keras Tutorial Happy House 
 Residual Networks 
-Autonomous driving application Car detection 
+Autonomous driving application Car detection
 Art Generation with Neural Style Transfer 
 Face Recognition for the Happy House 
