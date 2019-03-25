@@ -1,5 +1,14 @@
-Neural-Networks-and-Deep-Learning
-This is my assignment on Andrew Ng's special course "Deep Learning Specialization" This special course consists of five courses:
+Convolutional Neural Networks(https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
+
+by deeplearning.ai
+
+Guided by Andrew Ng
+
+
+This is my assignment on Andrew Ng's special course "Deep Learning Specialization"
+
+
+This special course consists of five courses:
 
 Neural Networks and Deep Learning  
 Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
