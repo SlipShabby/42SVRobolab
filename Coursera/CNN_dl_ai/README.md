@@ -16,8 +16,8 @@ This is my assignment on Andrew Ng's special course "Deep Learning Specializatio
       * Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
     * 
     * Programming Assignments:
-      * Convolutional Model:step by step   [[notebook]](https://github.com/SlipShabby/42SVRobolab/edit/master/Coursera/CNN_dl_ai/)    [[py]](https://github.com/SlipShabby/42SVRobolab/edit/master/Coursera/CNN_dl_ai/)
-      * Convolution model Application    [[notebook]](https://github.com/SlipShabby/42SVRobolab/edit/master/Coursera/CNN_dl_ai/)    [[py]](https://github.com/SlipShabby/42SVRobolab/edit/master/Coursera/CNN_dl_ai/)
+      * Convolutional Model:step by step   [[notebook]](https://github.com/SlipShabby/42SVRobolab/blob/master/Coursera/CNN_dl_ai/)    [[md]](https://github.com/SlipShabby/42SVRobolab/edit/master/Coursera/CNN_dl_ai/)
+      * Convolution model Application    [[notebook]](https://https://github.com/SlipShabby/42SVRobolab/blob/master/Coursera/CNN_dl_ai/CNN_Application/CNN_Application/CNN_Application.ipynb)    [[md]](https://github.com/SlipShabby/42SVRobolab/blob/master/Coursera/CNN_dl_ai/CNN_Application/CNN_Application/CNN_Application.md)
       * Keras Tutorial Happy House        
       * Residual Networks        
       * Autonomous driving application Car detection        
